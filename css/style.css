@@ -1,27 +1,35 @@
 app-sidebar textarea {
-  min-height: 290px; }
+  min-height: 290px;
+}
 app-sidebar img {
-  max-width: 100%; }
+  max-width: 100%;
+}
 
 .jumbotron {
   margin-top: 3rem;
-  padding: 2rem 2rem; }
-  .jumbotron h1 {
-    font-weight: bold; }
+  padding: 2rem 2rem;
+}
+.jumbotron h1 {
+  font-weight: bold;
+}
 
 label {
   font-weight: bold;
-  margin-bottom: 10px; }
+  margin-bottom: 10px;
+}
 
 .nav-pills {
   border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: .25rem; }
+  border-radius: 0.25rem;
+}
 
 .tab {
-  padding-top: 30px; }
-  .tab h3 {
-    text-transform: uppercase;
-    margin-bottom: 20px; }
+  padding-top: 30px;
+}
+.tab h3 {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
 
 footer {
   background-color: #e9ecef;
@@ -29,12 +37,15 @@ footer {
   padding-top: 25px;
   padding-bottom: 20px;
   margin-top: 50px;
-  color: #000; }
+  color: #000;
+}
 
 footer p {
-  margin-bottom: .25rem; }
+  margin-bottom: 0.25rem;
+}
 
 .example-icon {
-  width: 20px; }
+  width: 20px;
+}
 
 /*# sourceMappingURL=style.css.map */
